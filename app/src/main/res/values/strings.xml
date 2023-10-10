@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multip</string>
+    <string name="button_all_numbers">Упражнение для всех чисел</string>
+    <string name="button_choice">Упражнения выборочно</string>
+    <string name="input_number">Введите число от 2 до 9</string>
+    <string name="two_numbers">Решите пример: 9x9</string>
+    <string name="button_answer">Ответить</string>
+    <string name="input_answer">Введите ответ</string>
+</resources>
